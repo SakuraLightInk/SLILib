@@ -1,2 +1,2 @@
 # SLILib
-A common C# Library.
+一个普通的 C# 类库。
